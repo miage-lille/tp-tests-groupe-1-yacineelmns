@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "steoates.autoimport",
+    "ambar.bundle-size",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "bierner.markdown-mermaid",
+    "davidanson.vscode-markdownlint",
+    "pkief.material-icon-theme",
+    "codeandstuff.package-json-upgrade",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "meganrogge.template-string-converter",
+    "wayou.vscode-todo-highlight",
+    "gruntfuggly.todo-tree",
+    "sonarsource.sonarlint-vscode",
+    "mike-co.import-sorter"
+  ]
+}
